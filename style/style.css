@@ -1,0 +1,103 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+.container{
+    width: 95%;
+    /*border: 1px solid red;*/
+    margin-left: 2%;
+    align-items: center;
+    float: left;
+    
+    
+}
+
+.segundo{
+    position: absolute;
+    margin-left: -4%;
+    width: 39.8%;
+    height: 38%;
+    padding-top: -5%;
+    margin-bottom: 0%;
+}
+
+.depoimento{
+    position: absolute;
+    margin-left: 17%;
+    margin-top: 5%;
+}
+
+.topo span{
+    position: absolute;
+    margin-left: 8%;
+    margin-top: 1%;
+
+}
+
+.topo ul{
+    position: absolute;
+    margin-left: 63%;
+    margin-top: -15%;
+    list-style-type: none;
+}
+
+.topo li{
+    padding: 1%;
+    margin-bottom: 15%;  
+}
+
+.topo li:hover{
+    padding: 3%;
+    padding-right: 100%;
+    background-color: sandybrown;
+}
+.topo a{
+    text-decoration: none;
+    color: #D8914E;
+}
+/*conteudo*/
+
+/*coluna1*/
+.coluna1{
+    background-color: #F3E2A9;
+    width: 45%;
+    float: left;
+    padding: 2%;
+    margin-top: 1%;
+    
+}
+
+.coluna1 p {
+    margin-top: 2%;
+}
+
+
+/*coluna 2*/
+
+.coluna2{
+    background-color: #F3E2A9;
+    width: 45%;
+    float: right;
+    padding: 2%;
+    margin-top: 1%;
+    
+}
+
+.coluna2 img{
+    width: 30%;
+    float: left;
+}
+
+
+.conteudo-resumido:hover{
+    background-color: #D8D8D8;
+}
+.conteudo-resumido p, .conteudo-resumido h3{
+    margin-left: 33%;
+}
+
+
+.conteudo-resumido{
+    margin-bottom: 5%;
+}
